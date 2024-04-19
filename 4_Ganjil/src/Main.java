@@ -43,9 +43,9 @@ public class Main {
         // Membuat objek limas segi empat dengan setter
         LimasSegiEmpat limas1 = new LimasSegiEmpat();
         
-        limas1.setLuasAlas(0);
-        limas1.setLuasSelubung(0);
-        limas1.setTinggi(0);
+        limas1.setLuasAlas(1);
+        limas1.setLuasSelubung(1);
+        limas1.setTinggi(1);
         
         System.out.println("Limas segi empat dengan luas alas : " + limas1.luasAlas 
                 + ", luas selubung limas : " + limas1.luasSelubungLimas 
